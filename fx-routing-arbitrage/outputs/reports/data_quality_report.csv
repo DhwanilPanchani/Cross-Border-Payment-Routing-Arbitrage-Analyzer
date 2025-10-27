@@ -1,0 +1,9 @@
+Check,Passed
+TransactionAmt > 0,True
+Valid year range,True
+Fee leakage < 10%,False
+TransactionID not null,True
+TransactionAmt not null,True
+MerchantID not null,True
+Unique TransactionIDs,True
+Valid cross-border flag,True

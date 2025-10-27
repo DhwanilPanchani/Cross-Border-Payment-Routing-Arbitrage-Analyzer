@@ -8,7 +8,6 @@
 
 **Identifying $2B+ in Hidden FX Markup Inefficiencies Through Advanced Causal Inference & ML**
 
-[Quick Start](#quick-start) • [Methodology](#methodology) • [Tech Stack](#technology-stack) • [Results](#key-findings) • [Portfolio](#portfolio-highlights)
 
 ---
 

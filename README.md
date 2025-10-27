@@ -5,7 +5,6 @@
 ![Project Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Portfolio](https://img.shields.io/badge/Type-Portfolio%20Project-orange?style=flat-square)
 
 **Identifying $2B+ in Hidden FX Markup Inefficiencies Through Advanced Causal Inference & ML**
 
